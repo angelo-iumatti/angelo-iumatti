@@ -12,7 +12,6 @@ Com a formação prática do meu curso Técnico em Desenvolvimento de Sistemas e
             alt="Linkedin" 
             title="Acesse meu Perfil" 
             src="https://www.linkedin.com/in/angelo-iumatti-01620418b/"
-            <i class="fa fa-linkedin-square"></i>
         />
     </a>
 </p>
