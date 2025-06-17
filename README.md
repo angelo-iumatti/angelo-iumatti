@@ -6,15 +6,15 @@ Olá! Sou um profissional em transição de carreira, construindo uma base sóli
 
 Com a formação prática do meu curso Técnico em Desenvolvimento de Sistemas e a profundidade teórica da graduação em Tecnologia em Banco de Dados na PUC Minas, estou preparado para criar e otimizar soluções de ponta a ponta.".
 
-<p align="left">
-    <a href="(https://www.linkedin.com/in/angelo-iumatti-01620418b/)">
-        <img 
-            alt="Linkedin" 
-            title="Acesse meu Perfil" 
-            src="(https://pt.pngtree.com/freepng/linkedin-social-media-icon-design-template-vector_3654769.html)"
+ <a href="https://www.linkedin.com/in/angelo-iumatti-01620418b/" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Acesse meu Perfil"
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
         />
     </a>
-</p>
 
 ---
 
