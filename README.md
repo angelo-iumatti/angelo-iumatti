@@ -2,9 +2,26 @@
 
 **`Desenvolvedor & Analista de Dados em Formação | SQL | Python | Java | PowerBI | Inteligência Artificial`**
 
-Olá! Sou um profissional em transição de carreira, construindo uma base sólida e integrada entre Desenvolvimento de Software e Engenharia de Dados. Minha jornada é movida pela convicção de que os melhores sistemas são aqueles que não apenas funcionam com perfeição, mas também utilizam a informação de forma inteligente e estratégica.
+💡 Apaixonado por dados, automação e impacto real.
 
-Com a formação prática do meu curso Técnico em Desenvolvimento de Sistemas e a profundidade teórica da graduação em Tecnologia em Banco de Dados na PUC Minas, estou preparado para criar e otimizar soluções de ponta a ponta.".
+Atualmente atuo como estagiário na Gerência de Informações Operacionais da Arsae-MG, contribuindo com soluções que melhoram a gestão pública por meio da tecnologia. Minhas principais atividades envolvem:
+
+• Análise de consistência e atualização de dados regulatórios
+• Criação e manutenção de dashboards dinâmicos no Power BI
+• Automatização de processos com Power Automate, Excel avançado e Python
+• Estruturação de indicadores e relatórios estratégicos para tomada de decisão
+
+Tenho formação técnica em Desenvolvimento de Sistemas (Senac-RS) e curso superior em andamento em Tecnologia em Banco de Dados (PUC Minas). Complemento minha formação com projetos práticos e certificações voltadas para:
+
+• Automação com Power Automate e Excel estruturado
+• Engenharia de Prompt para IA Generativa
+• ETL com Python e Pandas
+• Power BI com DAX para análises visuais de alto impacto
+• SQL e modelagem em MySQL
+
+🎯 Objetivo: Atuar em projetos que envolvam Engenharia de Dados, BI ou Inteligência Artificial Aplicada, com foco em inovação, eficiência e valor social.
+
+🚀 Sempre em busca de novos desafios onde dados se transformam em decisões inteligentes.
 
  <a href="https://www.linkedin.com/in/angelo-iumatti-01620418b/" target="_blank">
         <img
