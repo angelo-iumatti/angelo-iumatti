@@ -712,7 +712,7 @@ class AutomacaoSEI:
                 print("\n[ETAPA 9] Incluindo novo documento...")
                 try:
                     # Pausa maior antes de clicar
-                    await page.wait_for_timeout(5000)
+                    await page.wait_for_timeout(10000)
                     
                     iframe_conteudo = page.locator('iframe[name="ifrConteudoVisualizacao"]')
                     frame_conteudo = iframe_conteudo.content_frame
